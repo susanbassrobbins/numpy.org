@@ -1,3 +1,4 @@
+I'm happy to be making my first edit!
 # Numpy.org
 
 ## Getting Started
